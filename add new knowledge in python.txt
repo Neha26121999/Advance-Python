@@ -1,0 +1,30 @@
+1.Encapsulation
+2.Abstract methods
+3. getter setter deleter methods
+4.decoraters
+5.special mthods
+6.__name__=__main__
+7.polymorphism: 
+    operator overloading
+   overiding
+8.about self keyword
+9.lambda function
+10.files explore
+11.fstring
+12.Time module
+13. Enumerate function
+14.join function
+15. lambda function
+16.map ,reduce filter function
+17.diamond shape problem in inheritance
+18. regular expression
+19. Iterators: iter and next method
+20: generators
+21. comprehensions
+22. os module
+23. Http requests module
+24.methods of json file- loads,load,dumps,dump,shortcut_keys,indent
+25. for with else block
+26. function caching
+
+m:d'xA';;bYP72C= microsoft teams password
